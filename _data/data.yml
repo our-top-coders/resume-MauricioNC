@@ -1,0 +1,148 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Mauricio Navarro Cortes # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # No modificar
+
+  # Actualiza tus datos de contacto
+  email: mauricionc19@gmail.com
+  phone: 3122196524
+  website: # No agregar http://
+  linkedin: linkedin.com/in/mauricio-navarro-cortés-626ab31a7
+  github: MauricioNC
+  gitlab:
+  bitbucket:
+  twitter: '@BrightCoders'
+  stack-overflow: 18063575/mauricionc
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Conversational # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+    
+    - item: Proactive
+      link: # dejar en blanco
+
+    - item: Self-taught
+      link: # dejar en blanco
+
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a person passionate for technologies areas like IoT, robotics, telecommunications, and how it works in agriculture areas. I love programming and face with new challenges to solve.
+    Currently, I want to become a Web back-end developer, I've some knowledge in PHP programming language and Ruby on Rails, MySQL and PostgreSQL as database, and in a future test other areas like IoT or something related.
+    I am proactive, and self-taught, but also I like to work in a team because we share our experience and knowledgement, this a good way to learn too.
+
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Bachelor Degree
+    university: University of Colima
+    time: 2017 Aug - 2021 June
+    details: |
+      Telematics Engineering
+
+      - Telecommunications
+      - Desktop and Web programming
+      - Digital electronic
+      - Server configuration
+      - Operative Systems
+
+  - degree: Bootcamp Ruby on Rails
+    university: BrightCoders
+    time: 2021 - Current
+    details: |
+      Bootcamp oriented to back-end development using the popular language programmning Ruby, and her popular framework Rails.
+      This bootcamp gave me the necessary skills to look for a good job, skills like Ruby on Rails frameworks, PostgreSQL, HTML5, CSS3, SASS, Bootstrap, JavaScript; not only skills of programming languges, but also skills like Git, GitHub, Agile as a methodology to work, teamwork, communication, search for help on internet, participate on CR, and much more. 
+
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Engineer Desginer
+    time: 2021 Jan - Currently
+    company: Tata Consultancy Services
+    details: |
+      - Help with SQL queries to solve problems,
+      - Create new configurations for the production team
+
+  - role: Member team
+    time: 2019 Aug - 2019 Nov
+    company: University of Colima
+    details: |
+      Hydroponic Systems | school project
+
+      Work in a team to develop an hydroponic system monitoring variables like humidity, lightness, PH, and temperature, the monitoring system was developed using an Arduino board, and the respective sensors that were stored in a database.
+      The info with the data was deployed in a web page getting the data from the database, this web page was developed with JavaScript, HMTL5, CSS3, AJAX, MySQL and PHP technologies.
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: C
+      level: 10%
+
+    - name: HTML
+      level: 60%
+
+    - name: CSS
+      level: 40%
+
+    - name: Bootstrap
+      level: 20%
+
+    - name: SASS
+      level: 10%
+
+    - name: JavaScript
+      level: 30%
+
+    - name: RoR
+      level: 20%
+
+    - name: PostgreSQL
+      level: 10%
+    
+    - name: MySQL
+      level: 20%
+
+    - name: PHP
+      level: 30%
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
